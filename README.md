@@ -4,16 +4,12 @@
 I'm a Student Developer from the United Kingdom
 I got interested in computers from a young age and it's been my main hobby ever since.
 
-### What can you do?
-I program mainly in C# and Python - with HTML, CSS and JavaScript for my websites
 
-I also have other knowledge in Server Management, WordPress, cPanel and Linux
-
-And no, I cannot fix your printer
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jack-bailey&hide=TeX&layout=compact&theme=react)
 
 ### Where can I find out more about you?
 
-My personal website [JackBailey.uk](https://jackbailey.uk) Is a great way to see my work, I also have a few other websites which you can find [Here](https://jackbailey.codes)
+My personal [website](https://jackbailey.uk) is a great way to find out more about my work, I also have a few other websites which you can find [here](https://jackbailey.codes)
 
 My other social media is linked on my personal website
 
