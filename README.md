@@ -22,7 +22,10 @@
 
 ### Who am I?
 I'm a frontend wobsite developer from the UK.
-I got interested in development from a young age and have spent countless hours since then creating projects, systems and more.
+
+### What am I currently doing?
+
+I'm working on my personal projects that you can find on this GitHub as well as working at [Script-Ware](https://script-ware.com) to develop their landing page and dashboard
 
 
 
@@ -30,7 +33,7 @@ I got interested in development from a young age and have spent countless hours 
 
 ### Where can I find out more about you?
 
-My personal [website](https://jackbailey.uk) is a great way to find out more about my work.
+My personal [wobsite](https://jackbailey.uk) is a great way to find out more about my work.
 My other social media is linked on [here](https://jackb.link)
 
 ### I want you to work with me
