@@ -21,7 +21,7 @@
 ![Total Visits:](https://visitor-badge.glitch.me/badge?page_id=jack-bailey.jack-bailey)
 
 ### Who am I?
-I'm a Fullstack developer from the UK.
+I'm a frontend wobsite developer from the UK.
 I got interested in development from a young age and have spent countless hours since then creating projects, systems and more.
 
 
