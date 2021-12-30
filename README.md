@@ -44,4 +44,4 @@ Great! Contact me [here](https://jackb.link/c) and we can get to work.
 
 ### What am I doing right now?
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/154608413412818944)](https://discord.com/users/154608413412818944)
+[![Discord Presence](https://lanyard.cnrad.dev/api/154608413412818944?borderRadius=5px&idleMessage=Friend%20me%20on%20discord%20to%20chat!&bg=a)](https://discord.com/users/154608413412818944)
