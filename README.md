@@ -19,7 +19,7 @@
 ![Total Visits:](https://visitor-badge.glitch.me/badge?page_id=jack-bailey.jack-bailey)
 
 ### Who am I?
-I'm a frontend website developer from the UK.
+I'm a Fullstack website developer from the UK.
 
 ### What am I currently doing?
 
@@ -32,11 +32,11 @@ I'm working on my personal projects that you can find on this GitHub as well as 
 ### Where can I find out more about you?
 
 My personal [website](https://jackbailey.uk) is a great way to find out more about my work.
-My other social media is linked on [here](https://jackb.link).
+My other social media is linked on [here](https://jck.cx).
 
 ### I want you to work with me
 
-Great! Contact me [here](https://jackb.link/c) and we can get to work.
+Great! Contact me [here](https://jck.cx/c) and we can get to work.
 
 
 
