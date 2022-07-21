@@ -23,7 +23,7 @@ I'm a Fullstack website developer from the UK.
 
 ### What am I currently doing?
 
-I'm working on my personal projects that you can find on this GitHub as well as working at [Script-Ware](https://script-ware.com) to develop their landing page and dashboard.
+I'm working as a freelance fullstack developer, you can find my public releases of this work on my [portfolio](https://jackbailey.dev).
 
 
 
@@ -31,7 +31,7 @@ I'm working on my personal projects that you can find on this GitHub as well as 
 
 ### Where can I find out more about you?
 
-My personal [website](https://jackbailey.uk) is a great way to find out more about my work.
+My personal [website](https://jackbailey.dev) is a great way to find out more about my work.
 My other social media is linked on [here](https://jck.cx).
 
 ### I want you to work with me
