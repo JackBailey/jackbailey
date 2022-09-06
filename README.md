@@ -27,7 +27,7 @@ I'm working as a freelance fullstack developer, you can find my public releases 
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jack-bailey&hide=TeX&layout=compact&theme=react)
+![Top Langs](https://github-stats.jackbailey.dev/api/top-langs/?username=jack-bailey&hide=TeX&layout=compact&theme=react)
 
 ### Where can I find out more about you?
 
