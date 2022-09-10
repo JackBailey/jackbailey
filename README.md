@@ -17,11 +17,11 @@
 ![Total Visits:](https://visitor-badge.glitch.me/badge?page_id=jack-bailey.jack-bailey)
 
 ### Who am I?
-I'm a Fullstack website developer from the UK.
+I'm a Frontend website developer from the UK.
 
 ### What am I currently doing?
 
-I'm working as a freelance fullstack developer, you can find my public releases of this work on my [portfolio](https://jackbailey.dev).
+I'm working as a freelance frontend developer, you can find my public releases of this work on my [portfolio](https://jackbailey.dev).
 
 
 
