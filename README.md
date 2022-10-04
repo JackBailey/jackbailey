@@ -14,7 +14,7 @@
 
 
 ## Hi, I'm Jack Bailey
-![Total Visits:](https://visitor-badge.glitch.me/badge?page_id=jack-bailey.jack-bailey)
+![Total Visits:](https://visitor-badge.deta.dev/badge?page_id=jack-bailey.jack-bailey)
 
 ### Who am I?
 I'm a Frontend website developer from the UK.
