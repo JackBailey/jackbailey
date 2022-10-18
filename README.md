@@ -24,7 +24,7 @@ I'm working as a freelance frontend developer, you can find my public releases o
 
 
 
-![Top Langs](https://github-stats.jackbailey.dev/api/top-langs/?username=jack-bailey&hide=TeX&layout=compact&theme=react)
+![Top Langs](https://github-stats.jackbailey.dev/api/top-langs/?username=jackbailey&hide=TeX&layout=compact&theme=react)
 
 ### Where can I find out more about you?
 
