@@ -31,17 +31,14 @@ In October 2021 I started freelancing which I've continued to today, working for
 <a href="https://github.com/JackBailey/StatusPage" target="_blank">
     <img src="https://github-stats.jackbailey.dev/api/pin/?username=JackBailey&repo=StatusPage&show_owner=true&hide_border=true&bg_color=111633&text_color=b4b4b4&icon_color=536fff&title_color=536fff"/>
 </a>
-<a href="https://github.com/JackBailey/ShareX-Uploader" target="_blank">
-    <img src="https://github-stats.jackbailey.dev/api/pin/?username=JackBailey&repo=ShareX-Uploader&show_owner=true&hide_border=true&bg_color=111633&text_color=b4b4b4&icon_color=536fff&title_color=536fff"/>
+<a href="https://github.com/JackBailey/CS-Res" target="_blank">
+    <img src="https://github-stats.jackbailey.dev/api/pin/?username=JackBailey&repo=CS-Res&show_owner=true&hide_border=true&bg_color=111633&text_color=b4b4b4&icon_color=536fff&title_color=536fff"/>
 </a>
 <a href="https://github.com/JackBailey/GTA-Suspend" target="_blank">
     <img src="https://github-stats.jackbailey.dev/api/pin/?username=JackBailey&repo=GTA-Suspend&show_owner=true&hide_border=true&bg_color=111633&text_color=b4b4b4&icon_color=536fff&title_color=536fff"/>
 </a>
-<a href="https://github.com/JackBailey/CS-Res" target="_blank">
-    <img src="https://github-stats.jackbailey.dev/api/pin/?username=JackBailey&repo=CS-Res&show_owner=true&hide_border=true&bg_color=111633&text_color=b4b4b4&icon_color=536fff&title_color=536fff"/>
-</a>
-<a href="https://github.com/JackBailey/CS-Res" target="_blank">
-    <img src="https://github-stats.jackbailey.dev/api/pin/?username=JackBailey&repo=CS-Res&show_owner=true&hide_border=true&bg_color=111633&text_color=b4b4b4&icon_color=536fff&title_color=536fff"/>
+<a href="https://github.com/JackBailey/ShareX-Uploader" target="_blank">
+    <img src="https://github-stats.jackbailey.dev/api/pin/?username=JackBailey&repo=ShareX-Uploader&show_owner=true&hide_border=true&bg_color=111633&text_color=b4b4b4&icon_color=536fff&title_color=536fff"/>
 </a>
 
 Some of my other non-opensource projects (mostly contracted work) is on my [Portfolio](https://jackbailey.dev)
