@@ -13,7 +13,7 @@ I got on better with these, my program development focus was short lived, only c
 
 Originally starting with Wordpress and hating it, I started learning HTML/CSS to recreate my [original WordPress site](https://web.archive.org/web/20221015034242/https://old.jackbailey.uk/). I then created several iterations of my portfolio which you can find [here](https://github.com/JackBailey/Portfolio).
 
-In October 2021 I started freelancing which I've continued to today, working for a variety of clients.
+In October 2021 I started freelancing which I continued until January 2023, after which I started as a website developer for an advertising and marketing company.
 
 <hr>
 
