@@ -21,24 +21,8 @@ In October 2021 I started freelancing which I continued until January 2023, afte
 
 <img src="https://github-stats.jackbailey.dev/api/top-langs?username=JackBailey&repo=portfolio&hide_border=true&bg_color=111633&text_color=b4b4b4&icon_color=536fff&title_color=536fff&layout=compact"/>
 
-# My best opensource Projects.
+## My projects
 
+My best open source projects are pinned below.
 
-
-<a href="https://github.com/JackBailey/Portfolio" target="_blank">
-    <img src="https://github-stats.jackbailey.dev/api/pin/?username=JackBailey&repo=portfolio&show_owner=true&hide_border=true&bg_color=111633&text_color=b4b4b4&icon_color=536fff&title_color=536fff"/>
-</a>
-<a href="https://github.com/JackBailey/StatusPage" target="_blank">
-    <img src="https://github-stats.jackbailey.dev/api/pin/?username=JackBailey&repo=StatusPage&show_owner=true&hide_border=true&bg_color=111633&text_color=b4b4b4&icon_color=536fff&title_color=536fff"/>
-</a>
-<a href="https://github.com/JackBailey/CS-Res" target="_blank">
-    <img src="https://github-stats.jackbailey.dev/api/pin/?username=JackBailey&repo=CS-Res&show_owner=true&hide_border=true&bg_color=111633&text_color=b4b4b4&icon_color=536fff&title_color=536fff"/>
-</a>
-<a href="https://github.com/JackBailey/GTA-Suspend" target="_blank">
-    <img src="https://github-stats.jackbailey.dev/api/pin/?username=JackBailey&repo=GTA-Suspend&show_owner=true&hide_border=true&bg_color=111633&text_color=b4b4b4&icon_color=536fff&title_color=536fff"/>
-</a>
-<a href="https://github.com/JackBailey/ShareX-Uploader" target="_blank">
-    <img src="https://github-stats.jackbailey.dev/api/pin/?username=JackBailey&repo=ShareX-Uploader&show_owner=true&hide_border=true&bg_color=111633&text_color=b4b4b4&icon_color=536fff&title_color=536fff"/>
-</a>
-
-Some of my other non-opensource projects (mostly contracted work) is on my [Portfolio](https://jackbailey.dev)
+Some of my other non-opensource projects are on my [Portfolio](https://jackbailey.dev) - these are mostly done while I was contracting so I couldn't opensource some of them.
