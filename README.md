@@ -11,7 +11,7 @@ I originally chose Python as my primary programming language due to starting to 
 
 I got on better with these, my program development focus was short lived, only creating a few programs, some of which [I open-sourced](https://github.com/JackBailey?tab=repositories&language=c%23). However I really took a liking to website development.
 
-Originally starting with Wordpress and hating it, I started learning HTML/CSS to recreate my [original WordPress site](https://web.archive.org/web/20221015034242/https://old.jackbailey.uk/). I then created several iterations of my portfolio which you can find [here](https://github.com/JackBailey/Portfolio).
+Originally starting with liking the end result but not so much the process, I started learning HTML/CSS to recreate my [original WordPress site](https://web.archive.org/web/20221015034242/https://old.jackbailey.uk/). I then created several iterations of my portfolio which you can find [here](https://github.com/JackBailey/Portfolio).
 
 In October 2021 I started freelancing which I continued until January 2023, after which I started as a website developer for an advertising and marketing company.
 
