@@ -1,28 +1,9 @@
-
-![Banner](images/banner.png)
-
 ## About me
 
-I'm a Frontend website developer from the UK.
+I'm a website developer from the UK. I primarily work for a UK-based advertising agency but I work on a few side-projects when I have time.
 
-I've always loved programming, ever since I started to use Scratch (I know) when I was 10 I've loved the flow of programming and creating impressive projects that I'm proud of and I can show off.
+The main of which is [Lynx](https://github.com/Lynx-Shortener/Lynx), a sleek, functional URL shortener, which I've developed and maintained since December 2022.
 
-I originally chose Python as my primary programming language due to starting to learn it at 11 in Secondary School and although it served me very well for 6 years as my focus shifted to developing websites and programs in late 2020 (when I started college), rather than CLI games and scripts, I picked up C# and JavaScript.
+I started learning programming at 10 (2014), mostly in Python. Then I had a [bit of a go with C#](https://github.com/JackBailey?tab=repositories&language=c%23) when I was 16 (2020), but really settled with Website development in JavaScript at the start of 2021. I then freelanced from October 2021 to December 2022.
 
-I got on better with these, my program development focus was short lived, only creating a few programs, some of which [I open-sourced](https://github.com/JackBailey?tab=repositories&language=c%23). However I really took a liking to website development.
-
-Originally starting with liking the end result but not so much the process, I started learning HTML/CSS to recreate my [original WordPress site](https://web.archive.org/web/20221015034242/https://old.jackbailey.uk/). I then created several iterations of my portfolio which you can find [here](https://github.com/JackBailey/Portfolio).
-
-In October 2021 I started freelancing which I continued until January 2023, after which I started as a website developer for an advertising and marketing company.
-
-<hr>
-
-<img src="https://github-stats.jackbailey.dev/api?username=JackBailey&repo=portfolio&show_owner=true&hide_border=true&bg_color=111633&text_color=b4b4b4&icon_color=536fff&title_color=536fff"/>
-
-<img src="https://github-stats.jackbailey.dev/api/top-langs?username=JackBailey&repo=portfolio&hide_border=true&bg_color=111633&text_color=b4b4b4&icon_color=536fff&title_color=536fff&layout=compact"/>
-
-## My projects
-
-My best open source projects are pinned below.
-
-Some of my other non-opensource projects are on my [Portfolio](https://jackbailey.dev) - these are mostly done while I was contracting so I couldn't opensource some of them.
+You can find my freelancing on my [Portfolio](https://jackbailey.dev), along with my side-projects which are also here, on my GitHub.
