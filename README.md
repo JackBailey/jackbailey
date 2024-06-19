@@ -45,4 +45,4 @@ You can view some of my work on GitHub or my [portfolio](https://jackbailey.dev/
 
 - 2023 (19)
 
-  I started full-time work at a UK-based advertising agency as a frontend developer, where I continue to work today. I also started working on [Lynx](https://github.com/Lynx-Shortener/Lynx), a sleek, functional URL shortener, which I've developed and maintained since December 2022.
+  I started full-time work at a UK-based advertising agency as a frontend developer, where I continue to work today. I also started working on [Lynx](https://github.com/Lynx-Shortener/Lynx), a sleek, functional URL shortener, which I developed and maintained from December 2022 to June 2024.
